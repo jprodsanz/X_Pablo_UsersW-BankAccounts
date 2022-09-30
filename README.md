@@ -1,6 +1,6 @@
 # X_Pablo_UsersW-BankAccounts
 
-- [ ]Update the User class __init__ method
+- [x]Update the User class __init__ method
 
 - [ ]Add a make_deposit method to the User class that calls on it's bank account's instance methods.
 
